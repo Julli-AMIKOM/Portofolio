@@ -17,16 +17,16 @@
 - Menciptakan band baru bernama Anaka dari organisasi Assem dan menciptakan lagu berjudul "Mengagumi mu".
 
 **Kujang Banyumas | Komunitas Mahasiswa Karesidenan Banyumas (_November 2021 - Febuari 2023_)**
-- **Seminar Campus Expo** | Memberikan informasi perihal dunia kampus kepada siswa-siswi kelas XII melalui seminar.
-- **Kujang Peduli** | Membantu korban bencana alam dengan mengumpulkan dana dan bantuan logistik yang diperlukan serta memberikan bantuan langsung kepada korban.
-- **Kujang E-SPORT** | Menciptakan lomba-lomba E-Sport untuk meningkatkan minat siswa-siswa dan mahasiswa dalam E-Sport dan menjaring para pemain berbakat.
+1. **Seminar Campus Expo** | Memberikan informasi perihal dunia kampus kepada siswa-siswi kelas XII melalui seminar.
+2. **Kujang Peduli** | Membantu korban bencana alam dengan mengumpulkan dana dan bantuan logistik yang diperlukan serta memberikan bantuan langsung kepada korban.
+3. **Kujang E-SPORT** | Menciptakan lomba-lomba E-Sport untuk meningkatkan minat siswa-siswa dan mahasiswa dalam E-Sport dan menjaring para pemain berbakat.
 
 ## Project
-- Aplikasi Perpustakaan
-- Aplikasi Grocery Apps
-- Aplikasi Be_Hidroponik
-- Aplikasi Posyandu
-- Web Rental Motor Purwokerto
-- Analisis Time Series untuk Memprediksi Indeks Pembangunan Manusia (IPM) Tahun 2023 Berdasarkan Data Historis Tahun 2010-2022 (Studi Kasus: Kabupaten/Kota di Provinsi Jawa Tengah)
+1. Aplikasi Perpustakaan
+2. Aplikasi Grocery Apps
+3. Aplikasi Be_Hidroponik
+4. Aplikasi Posyandu
+5. Web Rental Motor Purwokerto
+6. Analisis Time Series untuk Memprediksi Indeks Pembangunan Manusia (IPM) Tahun 2023 Berdasarkan Data Historis Tahun 2010-2022 (Studi Kasus: Kabupaten/Kota di Provinsi Jawa Tengah)
 
 ## Publikasi
