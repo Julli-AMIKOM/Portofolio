@@ -1,5 +1,5 @@
-# Data Scientist
-Technical Skills: Python, SQL, Tableau
+# Data Scientist & Mobile Developer
+Technical Skills: Python, SQL, Tableau, Andoid Studio, Java
 
 ## Pendidikan
 - **SMK MA'ARIF NU 01 PAGUYANGAN** (_Juli 2016 - Juni 2019_)
@@ -13,12 +13,14 @@ Technical Skills: Python, SQL, Tableau
 - Mengurangi jumlah keluhan tentang kebersihan dan keamanan sebesar 75%.
 
 ## Pengalaman Organisasi
-- **ASSEM - Universitas Amikom Purwokerto** (_Oktober 2020 - September 2021_)
-  - Menciptakan band baru bernama Anaka dari organisasi Assem dan menciptakan lagu berjudul "Mengagumi mu".
-- **Kujang Banyumas - Komunitas Mahasiswa Karesidenan Banyumas** (_November 2021 - Febuari 2023_)
-  - **Seminar Campus Expo** - Memberikan informasi perihal dunia kampus kepada siswa-siswi kelas XII melalui seminar.
-  - **Kujang Peduli** - Membantu korban bencana alam dengan mengumpulkan dana dan bantuan logistik yang diperlukan serta memberikan bantuan langsung kepada korban.
-  - **Kujang E-SPORT** - Menciptakan lomba-lomba E-Sport untuk meningkatkan minat siswa-siswa dan mahasiswa dalam E-Sport dan menjaring para pemain berbakat.
+- **ASSEM** (_Oktober 2020 - September 2021_)
+  - Anggota
+    - Menciptakan band baru bernama Anaka dari organisasi Assem dan menciptakan lagu berjudul "Mengagumi mu".
+- **Kujang Banyumas** (_November 2021 - Febuari 2023_)
+  - Departemen Event
+    - **Seminar Campus Expo** - Memberikan informasi perihal dunia kampus kepada siswa-siswi kelas XII melalui seminar
+    - **Kujang Peduli** - Membantu korban bencana alam dengan mengumpulkan dana dan bantuan logistik yang diperlukan serta memberikan bantuan langsung kepada korban
+    - **Kujang E-SPORT** - Menciptakan lomba-lomba E-Sport untuk meningkatkan minat siswa-siswa dan mahasiswa dalam E-Sport dan menjaring para pemain berbakat
 
 ## Project
 - **Aplikasi Perpustakaan**
