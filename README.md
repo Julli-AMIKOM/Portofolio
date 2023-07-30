@@ -1,5 +1,5 @@
 # Data Scientist
-## Technical Skills: Python, SQL, Tableau
+Technical Skills: Python, SQL, Tableau
 
 ## Pendidikan
 - **SMK MA'ARIF NU 01 PAGUYANGAN** (_Juli 2016 - Juni 2019_)
