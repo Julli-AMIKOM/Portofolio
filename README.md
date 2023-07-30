@@ -14,10 +14,10 @@ Technical Skills: Python, SQL, Tableau, Andoid Studio, Java
 
 ## Pengalaman Organisasi
 - **ASSEM** (_Oktober 2020 - September 2021_)
-  - Anggota
+  - **Anggota**
     - Menciptakan band baru bernama Anaka dari organisasi Assem dan menciptakan lagu berjudul "Mengagumi mu".
 - **Kujang Banyumas** (_November 2021 - Febuari 2023_)
-  - Departemen Event
+  - **Departemen Event**
     - **Seminar Campus Expo** - Memberikan informasi perihal dunia kampus kepada siswa-siswi kelas XII melalui seminar
     - **Kujang Peduli** - Membantu korban bencana alam dengan mengumpulkan dana dan bantuan logistik yang diperlukan serta memberikan bantuan langsung kepada korban
     - **Kujang E-SPORT** - Menciptakan lomba-lomba E-Sport untuk meningkatkan minat siswa-siswa dan mahasiswa dalam E-Sport dan menjaring para pemain berbakat
